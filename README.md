@@ -30,3 +30,11 @@ Rotamos un zapato hacia adelante, y otro hacia atrás para dar la impresión de 
 con una esfera de escala x:0.77, y:0.38. z:1. Añadimos otra esfera pequeñita encima de la esfera anterior, de escala x:0.11, y:-0.06, z:-0.19, para
 darle diseño a la gorrita. Por último, hicimos una ultima esfera al frente de la gorra, de escala x:0.4, y:0.0041, z:0.36.
 
+Parte 4: Realizar el Kirby Hammer
+
+<img width="1909" height="1015" alt="kirbyhammer" src="https://github.com/user-attachments/assets/1ef04c3b-eed5-4141-b099-8dd58f9cbf57" />
+
+Para hacer el Kirby Hammer, empezamos con un proceso parecido al anterior. Hicimos copy y paste los zapatos y manos del Kirby Regular, rotamos los zapatos
+32 unidades hacia arriba y las manos 17 unidades hacia abajo, para dar la impresión que de Kirby esta cayendo, con el martillo en la mano. Para hacer el 
+Hammer, añadimos un cilindro de escala x:0.04, y:0.7, z:0.04 y rotamos 20 unidades hacia arriba. Por último, añadimos un cilindro de escala x:0.4, y:0.4, z:0.4,
+y rotamos 10 unidades hacia la izquierda, y lo colocamos al extremo de cilindro anterior.
