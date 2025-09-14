@@ -54,5 +54,7 @@ Parte 6: Terrain
 <img width="700" height="350" alt="Screenshot 2025-09-14 020844" src="https://github.com/user-attachments/assets/eea5abc8-b4a1-41ad-ac0c-d9b1eeb1ea2c" /> 
 <img width="700" height="350" alt="Screenshot 2025-09-14 015456" src="https://github.com/user-attachments/assets/92412a6e-5a14-4272-aa18-df9ea77b4b79" />
 
-
+Para hacer el terreno, usamos los tamaños dados en las instrucciones para las dimensiones. Luego, ultizamos la quinta opción de brochas para Raise Terrain, 
+en brush size 2. Seguimos la foto de Puerto Rico que tomamos del mapa, y la fuimos recreando poco a poco. Por último, colocamos los Kirby en diferentes lugares, 
+y concluimos nuestro proyecto.
 
