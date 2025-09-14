@@ -14,6 +14,7 @@ como la base para los demás, ya que es el más simple y contiene los elementos 
 Parte 2: Realizar el Kirby Regular
 
 <img width="1905" height="1018" alt="kirbyregular" src="https://github.com/user-attachments/assets/164f8efb-a106-4854-8732-c7d15a0bb568" />
+
 Para hacer el Kirby Regular, empezamos colocando el prefab que ya habiamos hecho del Kirby Ball y añadimos una esfera que vamos a estar utizando
 para sus zapatos. La hicimos de escala x:0.4, y:0.2, z:0.77, entonces hicimos copy y paste para tener el otro zapato. Colocamos uno en cada lado,
 y rotamos hacia su izquierda el zapato izquierda y el derecho hacia la derecha, alrededor de 10 unidades en el eje de y. Entonces para las manos,
@@ -22,7 +23,8 @@ arriba para dar la idea de "vida" al personaje.
 
 Parte 3: Realizar el Kirby Cap
 
-<img width="1895" height="1012" alt="kirbycap" src="https://github.com/user-attachments/assets/25268d17-2526-4b66-a741-3b7a5b44ae0f" />
+<img width="1893" height="1017" alt="image" src="https://github.com/user-attachments/assets/0b6aae35-b409-476f-881b-9db22a929b60" />
+
 Para hacer el Kirby Cap, empezando colocando el Kirby Ball, y haciendo copy paste de los zapatos que ya habiamos hecho en Kirby Regular y las manos.
 Rotamos un zapato hacia adelante, y otro hacia atrás para dar la impresión de que Kirby esta brincando. Entonces para hacer el cap, empezamos 
 con una esfera de escala x:0.77, y:0.38. z:1. Añadimos otra esfera pequeñita encima de la esfera anterior, de escala x:0.11, y:-0.06, z:-0.19, para
