@@ -38,3 +38,15 @@ Para hacer el Kirby Hammer, empezamos con un proceso parecido al anterior. Hicim
 32 unidades hacia arriba y las manos 17 unidades hacia abajo, para dar la impresión que de Kirby esta cayendo, con el martillo en la mano. Para hacer el 
 Hammer, añadimos un cilindro de escala x:0.04, y:0.7, z:0.04 y rotamos 20 unidades hacia arriba. Por último, añadimos un cilindro de escala x:0.4, y:0.4, z:0.4,
 y rotamos 10 unidades hacia la izquierda, y lo colocamos al extremo de cilindro anterior.
+
+Parte 5: Realizar el Kirby Sword
+
+<img width="1918" height="1023" alt="kirbysword" src="https://github.com/user-attachments/assets/ba49ce08-a322-4ec5-babe-d331963c3bc8" />
+
+Pacer hacer el Kirby Sword, hicimos lo mismo para los zapatos y las manos. Rotamos los zapatos 30 unidades hacia la derecha, para darle importancia al 
+lado derecho de Kirby, el cual tiene la espada. Rotamos la mano derecha 50 unidades hacia arriba para que aguante la espada hacia arriba. Para hacer 
+la espada, colocamos una capsula de escala x:0.7, y:0.6, z:-2.32 para el handle, un cilindro para la cruceta de escala x:4. y:0.07, z:-2.84, un cilindro
+para la cuchilla de escala x:0.14, y:0.29, z:-0.03, y por último una capsula para la punta de escala x:1.08, y:0.37, z:-1.11. Rotamos la espada entera
+6 unidades hacia alfrente.
+
+
