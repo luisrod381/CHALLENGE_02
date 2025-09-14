@@ -50,7 +50,7 @@ para la cuchilla de escala x:0.14, y:0.29, z:-0.03, y por último una capsula pa
 6 unidades hacia alfrente.
 
 Parte 6: Terrain
-<img width="1919" height="1025" alt="Screenshot 2025-09-14 020844" src="https://github.com/user-attachments/assets/eea5abc8-b4a1-41ad-ac0c-d9b1eeb1ea2c" /> <img width="1852" height="794" alt="Screenshot 2025-09-14 015456" src="https://github.com/user-attachments/assets/92412a6e-5a14-4272-aa18-df9ea77b4b79" />
+<img width="900" height="500" alt="Screenshot 2025-09-14 020844" src="https://github.com/user-attachments/assets/eea5abc8-b4a1-41ad-ac0c-d9b1eeb1ea2c" /> <img width="900" height="400" alt="Screenshot 2025-09-14 015456" src="https://github.com/user-attachments/assets/92412a6e-5a14-4272-aa18-df9ea77b4b79" />
 
 
 
