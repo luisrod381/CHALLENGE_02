@@ -14,7 +14,7 @@ como la base para los demás, ya que es el más simple y contiene los elementos 
 Parte 2: Realizar el Kirby Regular
 
 <img width="1905" height="1018" alt="kirbyregular" src="https://github.com/user-attachments/assets/164f8efb-a106-4854-8732-c7d15a0bb568" />
-Para hacer el Kirby Regular, empezamos colocando el prefab que ya habiamos hecho del Kirby Ball y añadimos dos esferas que vamos a estar utizando
+Para hacer el Kirby Regular, empezamos colocando el prefab que ya habiamos hecho del Kirby Ball y añadimos una esfera que vamos a estar utizando
 para sus zapatos. La hicimos de escala x:0.4, y:0.2, z:0.77, entonces hicimos copy y paste para tener el otro zapato. Colocamos uno en cada lado,
 y rotamos hacia su izquierda el zapato izquierda y el derecho hacia la derecha, alrededor de 10 unidades en el eje de y.
 
