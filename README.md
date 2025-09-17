@@ -61,6 +61,7 @@ y concluimos nuestro proyecto.
 
 
 Experiencias con Kirby: 
+
 Luis: En verdad, yo nunca he sido el más fan de Kirby, es que, para el tiempo cuando jugaba mucho nintendo DS, mis juegos favoritos eran principlamente de Pokemón y Mario. Sin embargo, llegue a jugar
 Kirby Super Star Ultra una que otra vez, ya que cuando mi primo visitaba de los Estados Unidos, tenía el juego y me lo prestaba cuando estabamos juntos. Además, yo toda la vida he jugado 
 los juegos de Super Smash Bros, y Kirby es uno de mis personajes principales en los juegos principalmente por lo entretenido que es jugarlo. También en relación con Kirby, pues suelo usar de vez 
