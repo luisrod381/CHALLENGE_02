@@ -58,3 +58,21 @@ Para hacer el terreno, usamos los tamaños dados en las instrucciones para las d
 en brush size 2. Seguimos la foto de Puerto Rico que tomamos del mapa, y la fuimos recreando poco a poco. Por último, colocamos los Kirby en diferentes lugares, 
 y concluimos nuestro proyecto.
 
+
+
+Experiencias con Kirby: 
+Luis: En verdad, yo nunca he sido el más fan de Kirby, es que, para el tiempo cuando jugaba mucho nintendo DS, mis juegos favoritos eran principlamente de Pokemón y Mario. Sin embargo, llegue a jugar
+Kirby Super Star Ultra una que otra vez, ya que cuando mi primo visitaba de los Estados Unidos, tenía el juego y me lo prestaba cuando estabamos juntos. Además, yo toda la vida he jugado 
+los juegos de Super Smash Bros, y Kirby es uno de mis personajes principales en los juegos principalmente por lo entretenido que es jugarlo. También en relación con Kirby, pues suelo usar de vez 
+en cuando a Meta Knight, pero juego otros personajes más.
+
+Gustavo:
+Al ser un personaje tan importante en los vídeojuegos, todos hemos tenido alguna experiencia con Kirby. En mi caso, mi primera interacción con este fue al jugar Kirby's Dream Land en emulador,
+y luego de eso solo verlo en títulos de Smash Bros. Es uno de los personajes más interesantes en cuanto a su interacción con el resto de todos los vídeojuegos en que está, 
+ya que su habilidad distintiva es de utilizar los poderes de sus enemigos al absorberlos. Además, en términos de diseño, es icónico al examinar el lenguaje de forma ya que, 
+al ser tan simple, es bastante fácil reconocerlo aunque haya tenido alguna transformación.
+
+Jeniel:
+Kirby es un personaje extremadamente popular, es prácticamente un símbolo de los videojuegos antiguos pero su existencia ha definido incluso videojuegos modernos. Mis memorias mas vividas
+sobre Kirby vienen de jugar Kirby super star ultra en su Nintendo Dsi. Lo mas que me gustaba sobre el personaje era su diseño, pues aunque era simple, tenia mucha personalidad. Obviamente lo mas interesante
+del personaje es la habilidad que tiene para capturar a otros enemigos con la boca y adquirir parte de como se ven y sus habilidades, esto me parecio una idea casi maestra pues por lo simple que es el personaje, al adquirir la forma de un enemigo, se nota claramente el cambio. Esto me parecio genial, y es por esto que es tan memorable.
